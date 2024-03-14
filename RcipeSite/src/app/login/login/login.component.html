@@ -1,0 +1,15 @@
+
+<h2 class="text-center">Recipe Website Login</h2>
+
+<form [formGroup]="LoginForm" class="container mt-5">
+    <div class="form-group">
+        <label for="name">NAME:</label>  
+        <input type="text" id="name" formControlName="name" class="form-control">
+    </div>
+    <br/>
+    <div class="form-group">
+        <label for="password">PASSWORD:</label>
+        <input type="password" id="password" formControlName="password" class="form-control">
+    </div>
+    <button (click)="getUsers()" class="btn-primary">Save</button>
+</form>

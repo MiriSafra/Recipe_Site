@@ -1,0 +1,61 @@
+.background-container {
+    background-image: url('../../assets/images/img2665-12721-04252019-72dpi.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 200px; 
+    color: white; /* צבע טקסט לדוג' - אפשר לשנות כפי שמתאים */
+    text-align: center; /* אם יש טקסט, אז יהיה ממוקם במרכז */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+ 
+.mat-toolbar {
+    
+    background-color: #f5f2ed;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    height: 6vw;
+    
+    position: fixed;
+    top: 0%;
+    z-index: 200;
+
+}
+
+.centered-content {
+    display: flex;
+    align-items: center;
+}
+
+.example-icon {
+    color: rgb(179, 56, 82);
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.mat-toolbar button, .mat-toolbar a {
+    margin: 0 8px;
+    color: rgb(19, 18, 19);
+}
+
+.mat-toolbar a mat-icon {
+    margin-right: 4px;
+    color: rgb(179, 56, 82);
+}
+
+.user-profile{
+    margin-top: -3%;
+    color: rgb(179, 56, 82);
+    margin-left: 2%;
+}
+.img1{
+    width:6%;
+position: fixed;
+top: 0.2%;
+right: 4vw;
+z-index: 206;
+}
