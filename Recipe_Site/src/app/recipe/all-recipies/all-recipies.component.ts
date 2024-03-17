@@ -58,11 +58,12 @@ export class AllRecipesComponent implements OnInit {
       });
   }
 
+  
   filter() {
     this.recipesListFilter = this.recipesList.filter(recipe =>
       (this.filterForm.controls['name'].value === '' || recipe.recipeName.toLowerCase().includes(this.filterForm.controls['name'].value.toLowerCase())) &&
       (this.filterForm.controls['category'].value === '' || recipe.categoryCode == this.filterForm.controls['category'].value) &&
-      (this.filterForm.controls['duration'].value === '' || recipe.preparationTimeMinutes < this.filterForm.controls['duration'].value)
+      (this.filterForm.controls['duration'].value === '' || recipe.preparationTimeMinutes <= this.filterForm.controls['duration'].value|| !this.filterForm.controls['duration'].value)
     );
   }
 }

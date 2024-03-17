@@ -111,3 +111,36 @@ Y:\Groups\Group_2\בורשטיין  שירה\anglar\final final project\RecipesA
 Y:\Groups\Group_2\בורשטיין  שירה\anglar\final final project\RecipesAPI\RecipesAPI\obj\Debug\net6.0\RecipesAPI.csproj.CopyComplete
 Y:\Groups\Group_2\בורשטיין  שירה\anglar\final final project\RecipesAPI\RecipesAPI\obj\Debug\net6.0\RecipesAPI.genruntimeconfig.cache
 Y:\Groups\Group_2\בורשטיין  שירה\anglar\final final project\RecipesAPI\RecipesAPI\obj\Debug\net6.0\ref\RecipesAPI.dll
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\bin\Debug\net6.0\appsettings.json
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\bin\Debug\net6.0\RecipesAPI.exe
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\bin\Debug\net6.0\RecipesAPI.deps.json
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\bin\Debug\net6.0\RecipesAPI.runtimeconfig.json
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\bin\Debug\net6.0\RecipesAPI.dll
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\bin\Debug\net6.0\RecipesAPI.pdb
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\RecipesAPI.csproj.AssemblyReference.cache
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\RecipesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\RecipesAPI.AssemblyInfoInputs.cache
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\RecipesAPI.AssemblyInfo.cs
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\RecipesAPI.csproj.CoreCompileInputs.cache
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\RecipesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\RecipesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\RecipesAPI.sourcelink.json
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\staticwebassets\msbuild.RecipesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RecipesAPI.props
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecipesAPI.props
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecipesAPI.props
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\scopedcss\bundle\RecipesAPI.styles.css
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\RecipesAPI.csproj.Up2Date
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\RecipesAPI.dll
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\refint\RecipesAPI.dll
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\RecipesAPI.pdb
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\RecipesAPI.genruntimeconfig.cache
+C:\תכנות\RecipeSite\Recipes_API\RecipesAPI\obj\Debug\net6.0\ref\RecipesAPI.dll
